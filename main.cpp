@@ -11,7 +11,12 @@ int main()
 
     if ((a>b) && (a>c))
         cout<<"Najwieksza liczba to "<<a;
+
     if ((b>a) && (b>c))
         cout<<"Najwieksza liczba to "<<b;
+
+    if ((c>a) && (c>b))
+        cout<<"Najwieksza liczba to "<<c;
+
     return 0;
 }
