@@ -6,6 +6,7 @@ int a,b,c;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    cout << "Podaj 3 liczby rozdzielone spacja: ";
+
     return 0;
 }
