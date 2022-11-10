@@ -13,7 +13,7 @@ int main()
     if(b>m) m=b;
     if(c>m) m=c;
 
-
+    cout<<"Najwieksza liczba to "<<m;
 
 /*
    if ((a>=b) && (a>c))
