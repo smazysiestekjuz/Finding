@@ -11,6 +11,9 @@ int main()
 
     m=a;
     if(b>m) m=b;
+    if(c>m) m=c;
+
+
 
 /*
    if ((a>=b) && (a>c))
