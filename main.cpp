@@ -9,6 +9,7 @@ int main()
     cout << "Podaj 3 liczby rozdzielone spacja: ";
     cin>>a>>b>>c;
 
+/*
    if ((a>=b) && (a>c))
         cout<<"Najwieksza liczba to "<<a;
 
@@ -17,6 +18,6 @@ int main()
 
    else  if ((c>=a) && (c>=b))
         cout<<"Najwieksza liczba to "<<c;
-
+*/
     return 0;
 }
