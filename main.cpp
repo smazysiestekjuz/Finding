@@ -10,6 +10,7 @@ int main()
     cin>>a>>b>>c;
 
     m=a;
+    if(b>m) m=b;
 
 /*
    if ((a>=b) && (a>c))
